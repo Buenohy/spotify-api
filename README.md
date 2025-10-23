@@ -6,6 +6,10 @@
 
 A simple RESTful API built with **Node.js**, **Express**, and **PostgreSQL**. This project serves as a basic backend to manage and retrieve a list of songs, simulating a core feature of a music streaming service.
 
+## 📝 Description
+
+This project serves as the backend foundation for a conceptual music application. It provides a clean and simple RESTful endpoint to fetch song data from a PostgreSQL database. The main goal is to offer a straightforward and scalable API that can be easily consumed by any frontend client (web or mobile) to display a list of songs.
+
 ## ✨ Key Features
 
 - **Songs Endpoint:** Provides a `GET /api/songs` endpoint to retrieve all songs from the database.
@@ -83,6 +87,10 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 ![Screenshot do Projeto](spotify-api-screenshot-0.png)
 
 Uma API RESTful simples construída com **Node.js**, **Express** e **PostgreSQL**. Este projeto serve como um backend básico para gerenciar e buscar uma lista de músicas, simulando uma funcionalidade central de um serviço de streaming de música.
+
+## 📝 Descrição
+
+Este projeto serve como a base de backend para uma aplicação de música conceitual. Ele fornece um endpoint RESTful limpo e simples para buscar dados de músicas de um banco de dados PostgreSQL. O objetivo principal é oferecer uma API direta e escalável que possa ser facilmente consumida por qualquer cliente frontend (web ou mobile) para exibir uma lista de músicas.
 
 ## ✨ Principais Funcionalidades
 
